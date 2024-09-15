@@ -24,6 +24,6 @@ Make sure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/meetjn/rust_blockchain.git
+   git clone https://github.com/meetjn/Rust-Blockchain.git
    cd rust_blockchain
    ```
